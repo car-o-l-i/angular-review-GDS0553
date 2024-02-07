@@ -1,0 +1,25 @@
+<form [formGroup]="loginForm">
+    <p-card header="Ingresar al sinstema"[style]="{width:'360px'}">
+        <div class="field">
+            <input type="text" pInputText formControlName="email" 
+            placeholder="Ingresar E-mail" class="w-full "/>
+        </div>
+        <small *ngIf="email.invalid && (email.dirty || email.touched)" class="block p-error"> 
+        <div *ngIf="email.hasError('required')">Ingresa E-mail</div>
+        <div *ngIf="email.hasError('email')">Email incorrecto</div>
+
+        </small>
+        <div>
+            <p-password formControlName="password" [toggleMask]="true"styleClass= "w-full" ></p-password>
+        </div>
+       <div>
+    <p>
+        <p-button label="Ingresar" styleClass="w-full"></p-button>
+        </p>
+       </div>
+       <div class="mt-2">
+        ¿Tienes cuenta? <a routerLink="/register">registrarse</a>
+       </div>
+    </p-card>
+    
+</form>
