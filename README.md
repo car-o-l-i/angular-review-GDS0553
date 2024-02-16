@@ -5,7 +5,7 @@ Fecha 16/02/2024
 # Instalacion
 - Clonar el repositorio
 - git clone URL
-- 
+  
 ## Instalar modulos
 * Instalación de PrimeNG
 * Entramos al proyecto e ingresamos el siguiente comando:
