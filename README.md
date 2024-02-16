@@ -4,7 +4,7 @@ Grupo: GDS0553
 Fecha 16/02/2024
 ## Clonar repositorio
 ```
-npm i
+git clone git@github.com:car-o-l-i/angular-review-GDS0553.git
 ```
 ## Instalar modulos 
 ```
@@ -20,11 +20,11 @@ json-server --watch db.json
 ng s -o
 ```
 ## Ingresar a la url
+* para visualizar el resultado
 ```
 http://localhost:4200/login
 ```
 
 
-- git clone git@github.com:car-o-l-i/angular-review-GDS0553.git
 
 
