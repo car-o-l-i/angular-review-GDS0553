@@ -1,5 +1,5 @@
 # CvgLoginGds0553
-
+* Carol Vanessa Gallegos Martinez
 # Instalacion
 - Clonar el repositorio
 - git clone URL
@@ -12,3 +12,4 @@
 # Ejecutar el servidor
 - ng server -o
 ## Ingresar a la URL
+
