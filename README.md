@@ -9,6 +9,7 @@ Fecha 16/02/2024
 ## Instalar modulos
 * Instalación de PrimeNG
 * Entramos al proyecto e ingresamos el siguiente comando:
+ npm install primeng
 
 - mediante npm instalar los modulos.
 - npm install
