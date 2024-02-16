@@ -4,7 +4,7 @@ Grupo: GDS0553
 Fecha 16/02/2024
 ## Clonar repositorio
 ```
-git clone git@github.com:car-o-l-i/angular-review-GDS0553.git
+git clone https://github.com/car-o-l-i/angular-review-GDS0553.git
 ```
 ## Instalar modulos 
 ```
