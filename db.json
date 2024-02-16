@@ -41,6 +41,12 @@
       "fullname": "carol",
       "email": "carol.v.gallegos@gmail.com",
       "password": "carolcarol1234"
+    },
+    {
+      "id": "f891",
+      "fullname": "Pepe",
+      "email": "pepe@gmail.com",
+      "password": "1234"
     }
   ]
 }

@@ -2,6 +2,9 @@ import { Component } from '@angular/core';
 import { FormBuilder, Validators } from '@angular/forms';
 import { AuthService } from '../../servicios/auth.service';
 import { Router } from '@angular/router';
+import { MessageService } from 'primeng/api';
+import {response } from 'express';
+import {error} from 'console';
 
 @Component({
   selector: 'app-login',
@@ -15,7 +18,10 @@ export class LoginComponent {
     password: ['',[Validators.required]]
 
   });
-constructor(private fb:FormBuilder, private authService: AuthService, private router: Router){
+constructor(private fb:FormBuilder, 
+  private authService: AuthService, 
+  private router: Router, 
+  private messageService: MessageService){
 
 }
 get email(){
@@ -32,10 +38,19 @@ login(){
       if(response.length > 0 && response[0].password==password){
         sessionStorage.setItem("email", email as string)
         this.router.navigate(['/home'])
-      }
+      }else[
+        this.messageService.add({
+          severity: 'error',
+          summary : 'Error al inciar sesion',
+          detail: 'Datos Incorrectos'})
+      ]
     },
     error=>{
-
+this.messageService.add({
+  severity: 'error',
+  summary : 'Error al inciar sesion',
+  detail: 'Datos Incorrectos'
+})
     }
   )
  }

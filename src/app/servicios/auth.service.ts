@@ -10,6 +10,7 @@ export class AuthService {
 private baseUrl1 = "http://localhost:3000";
 
   constructor(private http:HttpClient) {}
+  
   registerUser(usuario: User){
     return this.http.post(`${this.baseUrl1}/users`,usuario);
   }
