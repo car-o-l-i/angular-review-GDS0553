@@ -1,14 +1,24 @@
 # CvgLoginGds0553
-* Carol Vanessa Gallegos Martinez
+Alumna:Carol Vanessa Gallegos Martinez
+Grupo: GDS0553
+Fecha 16/02/2024
 # Instalacion
 - Clonar el repositorio
 - git clone URL
+- 
 ## Instalar modulos
-- mediante bpm instalar los modulos.
-- npm install
-## Levantar el servidor Json-Server
--El frontEnd lo decodifica y verifica que sea valido.
+* Instalación de PrimeNG
+* Entramos al proyecto e ingresamos el siguiente comando:
 
+- mediante npm instalar los modulos.
+- npm install
+
+# Instalación de JSON-SERVER
+- Entramos al siguiente link: https://github.com/typicode/json-serv
+## Levantar el servidor Json-Server
+En una terminal del proyecto ejecutamos este comando:
+-El frontEnd lo decodifica y verifica que sea valido.
+json-server --watch db.json
 # Ejecutar el servidor
 - ng server -o
 ## Ingresar a la URL
