@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "dd49",
+      "fullname": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "2cb1",
+      "fullname": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "8e61",
+      "fullname": "jose",
+      "email": "joses@gmail.com",
+      "password": "josejose123"
+    },
+    {
+      "id": "a30a",
+      "fullname": "jose",
+      "email": "joses@gmail.com",
+      "password": "josejose123"
+    },
+    {
+      "id": "b589",
+      "fullname": ",jbc,vx",
+      "email": "joses@gmail.com",
+      "password": "josejose1234"
+    },
+    {
+      "id": "860b",
+      "fullname": "carol",
+      "email": "carol.v.gallegos@gmail.com",
+      "password": "carolcarol123"
+    },
+    {
+      "id": "8ab1",
+      "fullname": "carol",
+      "email": "carol.v.gallegos@gmail.com",
+      "password": "carolcarol1234"
+    }
+  ]
+}

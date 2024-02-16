@@ -1,41 +1,128 @@
 {
-  "hash": "82ce3617",
-  "browserHash": "7e5f7c4b",
+  "hash": "f2399ab0",
+  "browserHash": "1f1ee886",
   "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "adc7784b",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "76e9a226",
+      "needsInterop": false
+    },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "6cea8363",
+      "fileHash": "4a85e18b",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "a9e7f6e2",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "08405a5d",
+      "fileHash": "67fcc483",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "d27efd25",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "7dfcc15e",
+      "fileHash": "92cfc341",
+      "needsInterop": false
+    },
+    "primeng/api": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-api.mjs",
+      "file": "primeng_api.js",
+      "fileHash": "38f2e100",
       "needsInterop": false
     },
     "primeng/button": {
       "src": "../../../../../node_modules/primeng/fesm2022/primeng-button.mjs",
       "file": "primeng_button.js",
-      "fileHash": "13c3dac7",
+      "fileHash": "0ad01544",
+      "needsInterop": false
+    },
+    "primeng/card": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-card.mjs",
+      "file": "primeng_card.js",
+      "fileHash": "0c871205",
+      "needsInterop": false
+    },
+    "primeng/inputtext": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-inputtext.mjs",
+      "file": "primeng_inputtext.js",
+      "fileHash": "40affed0",
+      "needsInterop": false
+    },
+    "primeng/menubar": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-menubar.mjs",
+      "file": "primeng_menubar.js",
+      "fileHash": "c36ca81a",
+      "needsInterop": false
+    },
+    "primeng/password": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-password.mjs",
+      "file": "primeng_password.js",
+      "fileHash": "ff0888f2",
+      "needsInterop": false
+    },
+    "primeng/toast": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-toast.mjs",
+      "file": "primeng_toast.js",
+      "fileHash": "296ad2ac",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-53XGZDLW": {
-      "file": "chunk-53XGZDLW.js"
+    "chunk-3GFDNLRN": {
+      "file": "chunk-3GFDNLRN.js"
     },
-    "chunk-5EVMFBZC": {
-      "file": "chunk-5EVMFBZC.js"
+    "chunk-EF5DKARC": {
+      "file": "chunk-EF5DKARC.js"
     },
-    "chunk-7EWUOI4Z": {
-      "file": "chunk-7EWUOI4Z.js"
+    "chunk-SZ7QB2TS": {
+      "file": "chunk-SZ7QB2TS.js"
+    },
+    "chunk-PRWBUYZI": {
+      "file": "chunk-PRWBUYZI.js"
+    },
+    "chunk-O5QSHK3F": {
+      "file": "chunk-O5QSHK3F.js"
+    },
+    "chunk-BCNYD5AN": {
+      "file": "chunk-BCNYD5AN.js"
+    },
+    "chunk-3ZVVHP4M": {
+      "file": "chunk-3ZVVHP4M.js"
+    },
+    "chunk-HZL3KI2Z": {
+      "file": "chunk-HZL3KI2Z.js"
+    },
+    "chunk-3SP5577Y": {
+      "file": "chunk-3SP5577Y.js"
+    },
+    "chunk-4EIKV3G6": {
+      "file": "chunk-4EIKV3G6.js"
+    },
+    "chunk-7FWMWAGP": {
+      "file": "chunk-7FWMWAGP.js"
+    },
+    "chunk-DOHKDDLC": {
+      "file": "chunk-DOHKDDLC.js"
     }
   }
 }
