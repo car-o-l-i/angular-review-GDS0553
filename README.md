@@ -22,6 +22,8 @@ ng s -o
 ## Ingresar a la url
 * para visualizar el resultado
 ```
+[Capturas de Repaso angular](https://drive.google.com/drive/folders/13VuUMPAq76NF1Whw_W7H9WdNDuHSti6n)
+
 http://localhost:4200/login
 ```
 
