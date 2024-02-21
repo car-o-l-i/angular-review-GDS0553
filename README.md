@@ -21,7 +21,8 @@ ng s -o
 ```
 ## Ingresar a la url
 * para visualizar el resultado
-```
+
+  
 ## Carpeta  de drive con capturas del repaso
 [Capturas de Repaso angular](https://drive.google.com/drive/folders/13VuUMPAq76NF1Whw_W7H9WdNDuHSti6n)
 
