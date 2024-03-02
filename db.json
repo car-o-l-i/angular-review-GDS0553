@@ -47,6 +47,12 @@
       "fullname": "Pepe",
       "email": "pepe@gmail.com",
       "password": "1234"
+    },
+    {
+      "id": "0639",
+      "fullname": "lolaa",
+      "email": "lolaa@gmail.com",
+      "password": "12345678"
     }
   ]
 }
